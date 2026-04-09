@@ -34,8 +34,15 @@ Le site principal est servi depuis [`index.html`](/F:/laragon/www/deewid-front/i
 
 Les autres versions Deewid vivent dans des dépôts séparés :
 
-- `deewid-landing-v2` : version front plus complète et plus aboutie
-- `deewid-landing-v3-laravel` : version application Laravel
+- `deewid-landing-v1`
+  - Repo : `https://github.com/adrielzimbril/deewid-landing-v1`
+  - Preview : `https://adrielzimbril.github.io/deewid-landing-v1/`
+- `deewid-landing-v2`
+  - Repo prévu : `https://github.com/adrielzimbril/deewid-landing-v2`
+  - Preview prévue : `https://adrielzimbril.github.io/deewid-landing-v2/`
+- `deewid-landing-v3-laravel`
+  - Repo prévu : `https://github.com/adrielzimbril/deewid-landing-v3-laravel`
+  - Preview : non applicable, application Laravel
 
 ## Maintien
 

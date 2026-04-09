@@ -34,8 +34,15 @@ The main entry point is [`index.html`](/F:/laragon/www/deewid-front/index.html).
 
 The other Deewid versions live in separate repositories:
 
-- `deewid-landing-v2`: a more complete front-end iteration
-- `deewid-landing-v3-laravel`: the Laravel application version
+- `deewid-landing-v1`
+  - Repo: `https://github.com/adrielzimbril/deewid-landing-v1`
+  - Preview: `https://adrielzimbril.github.io/deewid-landing-v1/`
+- `deewid-landing-v2`
+  - Planned repo: `https://github.com/adrielzimbril/deewid-landing-v2`
+  - Planned preview: `https://adrielzimbril.github.io/deewid-landing-v2/`
+- `deewid-landing-v3-laravel`
+  - Planned repo: `https://github.com/adrielzimbril/deewid-landing-v3-laravel`
+  - Preview: not applicable, Laravel application
 
 ## Maintainer
 
