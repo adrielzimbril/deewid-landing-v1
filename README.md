@@ -34,7 +34,7 @@ npm run watch
   - Preview : `https://adrielzimbril.github.io/deewid-landing-v2/`
 - `deewid-landing-v3-laravel`
   - Repo : `https://github.com/adrielzimbril/deewid-landing-v3-laravel`
-  - Live app : `https://deewid-landing-v3-laravel.adrielzimbril.com/`
+  - Live app : `https://deewid-landing-v3.adrielzimbril.com/`
 
 ## Maintien
 
@@ -46,4 +46,5 @@ Projet maintenu par Oricodes.
 ## Licence
 
 MIT. Voir `LICENSE`.
+
 
