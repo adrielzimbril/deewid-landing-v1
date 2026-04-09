@@ -46,3 +46,4 @@ Maintained by Oricodes.
 ## License
 
 MIT. See `LICENSE`.
+
